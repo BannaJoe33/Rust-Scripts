@@ -1,4 +1,6 @@
 # Rust-Scripts
+About:
+--------
 The individual gun scripts are not made by me but everything else is.
 --------
 This script is made in ahk.
