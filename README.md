@@ -1,7 +1,7 @@
 # Rust-Scripts
 About:
 --------
-!SCRIPT WINN NOT WORK WITHOUT ALL FILES!
+!SCRIPT WILL NOT WORK WITHOUT ALL FILES!
 Make sure to download the following files:
 ak.ahk
 crosshair.ahk
