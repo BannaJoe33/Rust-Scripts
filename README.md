@@ -1,6 +1,14 @@
 # Rust-Scripts
 About:
 --------
+!SCRIPT WINN NOT WORK WITHOUGHT ALL FILES!
+Make sure to download the following files:
+ak.ahk
+crosshair.ahk
+m2.ahk
+dev.ahk
+sar.ahk
+
 The individual gun scripts are not made by me but everything else is.
 This script is made in ahk.
 Not nessicairly the best language for this but it works.
