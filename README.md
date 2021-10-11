@@ -3,11 +3,11 @@ About:
 --------
 !SCRIPT WILL NOT WORK WITHOUT ALL FILES!
 Make sure to download the following files:
-ak.ahk
-crosshair.ahk
-m2.ahk
-dev.ahk
-sar.ahk
+1. ak.ahk
+2. crosshair.ahk
+3. m2.ahk
+4. dev.ahk
+5. sar.ahk
 
 The individual gun scripts are not made by me but everything else is.
 This script is made in ahk.
